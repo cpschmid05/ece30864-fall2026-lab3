@@ -6,3 +6,7 @@ Cons: Makes the process less predictable if it allows for easy change. Less stri
 The Scrum Master is in charge of managing the team, making sure they follow the scrum principles and manage communication between them making sure everything gets done on time.
 The Project Owner is responsible for the final project result and communicate with the clients. They make sure the team if following the specifications correctly.
 
+3. 
+Sprint Planning Meeting - Create a list of tasks that need to be completed during the sprint. Figure out which of those are the highest priority tasks.
+Daily Scrum - Listen to team updates. Decided what the team will work on next.
+Sprint Review/Retrospective Meeting - Demonstrate the work that was completed at the end of the sprint. Decide what well and what didn't go well.
