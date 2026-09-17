@@ -1,3 +1,8 @@
 1. 
 Pros: Allows for flexibility and its very easy to change the requirements. It also allows the developers to test things often and as soon as possible.
 Cons: Makes the process less predictable if it allows for easy change. Less strict end goal requirements as we are planning as we go instead of having it planned out in advance.
+
+2. 
+The Scrum Master is in charge of managing the team, making sure they follow the scrum principles and manage communication between them making sure everything gets done on time.
+The Project Owner is responsible for the final project result and communicate with the clients. They make sure the team if following the specifications correctly.
+
