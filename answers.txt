@@ -1,1 +1,3 @@
-
+1. 
+Pros: Allows for flexibility and its very easy to change the requirements. It also allows the developers to test things often and as soon as possible.
+Cons: Makes the process less predictable if it allows for easy change. Less strict end goal requirements as we are planning as we go instead of having it planned out in advance.
